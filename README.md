@@ -5,7 +5,6 @@
 Originally built collaboratively as a hackathon prototype. This standalone repository continues that work, with future development maintained by Prarth Gupta with the original teammates' permission.
 
 - Original team repository: [PranavSundar/TIDALHACK26](https://github.com/PranavSundar/TIDALHACK26)
-- Preserved hackathon fork: [Prarth314/TIDALHACK26-hackathon-archive](https://github.com/Prarth314/TIDALHACK26-hackathon-archive)
 - The original Git commit history and authorship have been preserved. The original prototype was a team effort; this repository does not claim sole authorship of that work.
 
 ---
